@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="netchat-java-master/ChatClient/src"/>
+	<classpathentry kind="src" path="netchat-java-master/ChatServer/src"/>
+	<classpathentry kind="lib" path="netchat-java-master/ChatClient/dist/ChatClient.jar"/>
+	<classpathentry kind="lib" path="netchat-java-master/ChatServer/dist/ChatServer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
